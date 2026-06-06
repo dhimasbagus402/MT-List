@@ -4,8 +4,8 @@
 # Baris kosong dan diawali '#' diabaikan
 
 # ── MT4 ──
-MT4|FBS|https://download.mql5.com/cdn/web/fbs.markets.inc/mt4/fbs4setup.exe
-MT4|XM Global|https://download.mql5.com/cdn/web/xm.global.limited/mt4/xmglobal4setup.exe
+# MT4|FBS|https://download.mql5.com/cdn/web/fbs.markets.inc/mt4/fbs4setup.exe
+# MT4|XM Global|https://download.mql5.com/cdn/web/xm.global.limited/mt4/xmglobal4setup.exe
 MT4|Tickmill|https://download.mql5.com/cdn/web/17409/mt4/tickmill4setup.exe
 MT4|JustForex|https://download.mql5.com/cdn/web/just.global.markets/mt4/justmarkets4setup.exe
 MT4|Weltrade|https://download.mql5.com/cdn/web/systemgates.limited/mt4/weltrade4setup.exe
